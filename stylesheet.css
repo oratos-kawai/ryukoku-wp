@@ -1,0 +1,322 @@
+title {
+  color:black;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+
+}
+/*ヘッダ－*/
+header {
+  background-color:#f00;
+  width:100%;
+  position: fixed;
+  z-index: 1;
+}
+
+/*ヘッダ－レフト*/
+.header-left {
+  float:left;
+  background-color: red;
+  padding-right:9px;
+}
+.univ-name {
+  color:white;
+  margin-top:-3px;
+  margin-left: 175px;
+  font-size: 25px;
+  font-weight: lighter;
+  background-color: red;
+}
+
+h1 {
+font-family:'Yu Mincho' ;
+}
+a {
+  text-decoration: none;
+
+}
+
+.univ-logo {
+  position: absolute;
+  top:0px;
+  left:0px;
+  background-color: red;
+
+}
+
+
+
+/*ヘッダーライト*/
+.header-right {
+  padding-bottom: 0px;
+  background-color: white;
+}
+li {
+  list-style: none;
+  float:right;
+  display: block;
+  color:black;
+  margin-left:20px ;
+  margin-right: 30px;
+
+
+}
+
+.info-list-contact {
+  padding-top:px;
+}
+.info-list-univ {
+  padding-top:px;
+}
+
+.info-wp-list li {
+  color:white;
+  padding-top:12px;
+  font-size: 15px;
+
+}
+
+.info-wp-list {
+  padding-left:0px;
+}
+
+.fa-bars {
+display: none;
+}
+
+
+.v-line {
+  background-color: white;
+  width:3px;
+  height: 75px;
+  position: absolute;
+  top:0px;
+  left:409px;
+}
+
+.info-list-univ li:hover{
+  background-color:black;
+
+}
+
+.info-list-contact li:hover {
+  background-color: black;
+
+}
+
+
+.info-wp-list li:hover {
+  background-color: black;
+  padding-bottom: 15.5px;
+
+}
+.fa-bars {
+  display: none;
+}
+.u-line {
+  width:1350px;
+  height:3px;
+  background-color: white;
+  position: absolute;
+  top:75px;
+}
+
+/*メイン*/
+.main-top {
+
+  background-color:gray;
+  background-size:cover;
+  padding-top: 100px;
+  width:100%;
+}
+
+h2 {
+  color:white;
+  font-size:50px;
+  font-weight: bold;
+  padding-top: 75px;
+  padding-left: 100px;
+
+}
+
+h3 {
+  color:white;
+  font-size:50px;
+  font-weight: bold;
+  padding-top:80px;
+  padding-left: 100px;
+  padding-bottom:300px;
+}
+span {
+  color:red;
+}
+
+.circle {
+  position: absolute;
+  top:357px;
+  left:685px;
+}
+.mokuhyo {
+ width: 100%;
+  position: absolute;
+  top:850px;
+  height: 100px;
+  background-color: white;
+
+}
+
+.mokuhyo  p {
+  color: black;
+  text-align:center;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.longer {
+  color: black;
+  position: absolute;
+  top:900px;
+  width: 100%;
+  text-align: center;
+}
+
+.youtube p {
+  letter-spacing: 0px;
+  position:absolute;
+  bottom:-35px;
+  left:55px;
+  font-size: 23px;
+  color:white;
+  font-weight: bold;
+  font-family:inherit;
+  display:none;
+
+}
+.youtube {
+  display: block;
+  position:absolute;
+  top:500px;
+  left:80px;
+}
+
+
+/*コンテンツ*/
+.main-contents-wrapper {
+
+  width: 100%;
+  padding-top: 250px;
+  padding-bottom:100px;
+  background-color: gray;
+
+}
+
+img {
+  display: block;
+}
+
+
+.content {
+ padding-top:60px;
+ padding-left:80px;
+ float: left;
+ text-align: center;
+}
+
+.content img {
+  height: 200px;
+  width:320px;
+
+}
+
+.clear {
+  clear: left;
+}
+.content-img {
+  border: solid 3px;
+  color:white;
+
+}
+
+
+.sub-title {
+
+  color:white;
+  font-size:35px;
+  font-weight: bold;
+
+  position: relative;
+  bottom:55px;
+  left:80px;
+  cursor: pointer;
+}
+
+.team {
+
+  bottom:55px;
+  left:100px;
+}
+
+.sns {
+  bottom:55px;
+  left:120px;
+}
+.sch {
+
+  bottom:55px;
+  left:60px;
+}
+
+.sub-title-active {
+  display:block;
+
+}
+
+
+.main-contents-wrapper-2 {
+  height:300px;
+  background-color: gray;
+  width: 1350px;
+}
+/*フッター*/
+
+
+footer {
+  height: 170px;
+  background-color: black;
+  width:100%;
+
+}
+
+footer h4 {
+
+  color:white;
+  padding-left: 15px;
+  padding-top: 15px;
+}
+
+footer p {
+  color:white;
+  padding-bottom: 10px;
+
+}
+.footer-list {
+float: right;
+padding-top: 20px;
+padding-right: 40px;
+
+}
+footer a {
+
+  display:block;
+  color:white;
+  padding-bottom:7px;
+  font-size: 12px;
+}
+
+
+footer a:hover {
+  opacity: 0.5;
+}
