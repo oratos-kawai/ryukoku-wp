@@ -1,0 +1,116 @@
+*{
+  box-sizing: border-box;
+}
+
+@media  (max-width: 670px ) {
+
+
+  .univ-logo {
+    display: none;
+  }
+  .univ-name {
+    margin-left: 10px;
+  }
+  .header-right li {
+    font-size: 12px;
+
+  }
+
+  .header-right-bottom {
+
+  display: none;
+  }
+
+  .fa-bars {
+  color: white;
+  position: absolute;
+  top:30px;
+  left: 450px;
+  }
+
+
+  .v-line {
+    position: absolute;
+    top:0;
+    left:244px;
+  }
+
+
+  .main-contents-wrapper {
+    width:100%;
+  }
+  h2 {
+    font-size: 35px;
+    padding-left: 30px;
+  }
+  h3 {
+    font-size: 25px;
+    padding-left: 30px;
+    padding-top:10px;
+  }
+ .circle {
+   position:absolute;
+   left: 75px;
+ }
+
+  .circle img {
+    height: 200px;
+    width: 275px;
+  }
+
+
+  .youtube {
+  position: absolute;
+  left: 75px;
+  top:600px;
+  }
+
+  .youtube iframe {
+    height: 200px;
+    width: 275px;
+  }
+
+  .goal {
+    position: relative;
+    bottom:550px;
+    padding-top: 70px;
+  }
+  .mokuhyo p {
+    font-size:20px;
+  }
+
+  .longer {
+    font-size: 10px;
+
+  }
+
+
+  }
+.main-contents {
+  padding-top: 110px;
+}
+.content {
+  padding-top: 10px;
+
+
+}
+.content {
+  flex-direction: column;
+}
+.content img {
+
+}
+
+.sub-title {
+  font-size: 30px;
+  padding-right: 20px;
+}
+.footer-list {
+
+  padding-left: 18px;
+}
+footer p {
+  font-size: 12px;
+}
+
+}
