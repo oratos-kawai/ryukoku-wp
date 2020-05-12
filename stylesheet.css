@@ -116,7 +116,7 @@ display: none;
   display: none;
 }
 .u-line {
-  width:1350px;
+  width:100%;
   height:3px;
   background-color: white;
   position: absolute;
