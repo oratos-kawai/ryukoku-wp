@@ -102,7 +102,10 @@ width:275px;
   font-size: 30px;
   padding-right: 20px;
 }
+
+
 .footer-lists {
+  float:left;
 position:absolute;
   left:15px;
   
