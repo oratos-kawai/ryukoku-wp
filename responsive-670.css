@@ -108,6 +108,10 @@ width:275px;
   left: 15px;
 
 }
-footer p {
+.footer-list p {
   font-size: 12px;
+}
+
+.footer-list-item a {
+  font-size:7px;
 }
