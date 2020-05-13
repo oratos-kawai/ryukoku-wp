@@ -105,6 +105,7 @@ width:275px;
 
 
 .footer-lists {
+  display:none;
   float:left;
 position:absolute;
   left:15px;
