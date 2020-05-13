@@ -102,20 +102,16 @@ width:275px;
   font-size: 30px;
   padding-right: 20px;
 }
-
-
 .footer-lists {
-  display:none;
-  float:left;
-position:absolute;
-  left:15px;
-  
+  display: none;
+  position: absolute;
+  left: 15px;
 
 }
 .footer-list p {
-  font-size: 12px;
+  font-size: 13px;
 }
 
 .footer-list-item a {
-  font-size:7px;
+  font-size: 7px;
 }
