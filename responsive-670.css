@@ -35,7 +35,8 @@
     left:244px;
   }
 
-
+　.main-wraper {
+   overflow:hidden;
 
   h2 {
     font-size: 45px;
@@ -89,8 +90,6 @@
 }
 .content {
   padding-top: 10px;
-
-
 }
 
 .content img {
