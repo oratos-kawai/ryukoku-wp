@@ -49,7 +49,7 @@
  .circle {
    position:absolute;
    top:500px;
-   left: 75px;
+   left: 45px;
  }
 
   .circle img {
@@ -60,7 +60,7 @@
 
   .youtube {
   position: absolute;
-  left: 75px;
+  left: 45px;
   top:800px;
   }
 
